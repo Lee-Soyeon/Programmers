@@ -2,8 +2,8 @@
 
 ## Level 1
 
-* [체육복](https://github.com/Lee-Soyeon/Programmers/blob/main/체육복.md)
+* [체육복](https://github.com/Lee-Soyeon/Programmers/blob/master/체육복.md)
 
 ## Level 2
 
-* [네트워크](https://github.com/Lee-Soyeon/Programmers/blob/main/체육복.md)
+* [네트워크](https://github.com/Lee-Soyeon/Programmers/blob/master/네트워크.md)
