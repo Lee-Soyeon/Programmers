@@ -1,0 +1,27 @@
+# 입양 시각 구하기(1)
+
+## 문제
+https://programmers.co.kr/learn/courses/30/lessons/59412
+
+### 문제 설명
+
+보호소에서는 몇 시에 입양이 가장 활발하게 일어나는지 알아보려 합니다. 
+
+09:00부터 19:59까지, 각 시간대별로 입양이 몇 건이나 발생했는지 조회하는 SQL문을 작성해주세요. 
+
+이때 결과는 시간대 순으로 정렬해야 합니다.
+
+### 코드
+
+``` sql
+SELECT HOUR(DATETIME) HOUR, COUNT(*)
+FROM ANIMAL_OUTS
+WHERE HOUR(DATETIME) > 8 AND HOUR(DATETIME) < 20
+GROUP BY HOUR(DATETIME)
+ORDER BY HOUR(DATETIME);
+```
+
+### 문제해결방법
+
+* 제발제발제발제발 문제 조건 꼼꼼히 읽고 풀기 ★
+* HOUR() 함수를 쓰면 시간대 별로 그룹핑 할 수 있음
