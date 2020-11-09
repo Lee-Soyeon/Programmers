@@ -18,6 +18,7 @@
 * [동명 동물 수 찾기](https://github.com/Lee-Soyeon/Programmers/blob/master/%EB%8F%99%EB%AA%85%20%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md)
 * [입양 시각 구하기 (1)](https://github.com/Lee-Soyeon/Programmers/blob/master/%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(1))
 * [NULL 처리하기](https://github.com/Lee-Soyeon/Programmers/blob/master/NULL%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
+* [DATETIME에서 DATE로 형 변환](https://github.com/Lee-Soyeon/Programmers/blob/master/DATETIME%EC%97%90%EC%84%9C%20DATE%EB%A1%9C%20%ED%98%95%20%EB%B3%80%ED%99%98.md)
 
 ## Level 3
 
