@@ -18,3 +18,7 @@
 * [동명 동물 수 찾기](https://github.com/Lee-Soyeon/Programmers/blob/master/%EB%8F%99%EB%AA%85%20%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md)
 * [입양 시각 구하기 (1)](https://github.com/Lee-Soyeon/Programmers/blob/master/%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(1))
 * [NULL 처리하기](https://github.com/Lee-Soyeon/Programmers/blob/master/NULL%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
+
+## Level 3
+
+* [없어진 기록 찾기](https://github.com/Lee-Soyeon/Programmers/blob/master/%EC%97%86%EC%96%B4%EC%A7%84%20%EA%B8%B0%EB%A1%9D%20%EC%B0%BE%EA%B8%B0.md)
