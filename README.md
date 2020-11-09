@@ -22,3 +22,4 @@
 ## Level 3
 
 * [없어진 기록 찾기](https://github.com/Lee-Soyeon/Programmers/blob/master/%EC%97%86%EC%96%B4%EC%A7%84%20%EA%B8%B0%EB%A1%9D%20%EC%B0%BE%EA%B8%B0.md)
+* [있었는데요 없었습니다](https://github.com/Lee-Soyeon/Programmers/blob/master/%EC%9E%88%EC%97%88%EB%8A%94%EB%8D%B0%EC%9A%94%20%EC%97%86%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4.md)
