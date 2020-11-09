@@ -8,7 +8,7 @@
 * [가운데 글자 가져오기](https://github.com/Lee-Soyeon/Programmers/blob/master/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 * [3진법 뒤집기](https://github.com/Lee-Soyeon/Programmers/blob/master/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.md)
 * [같은 숫자는 싫어](https://github.com/Lee-Soyeon/Programmers/blob/master/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.md)
-
+* [어린 동물 찾기](https://github.com/Lee-Soyeon/Programmers/blob/master/%EC%96%B4%EB%A6%B0%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0.md)
 
 
 ## Level 2
